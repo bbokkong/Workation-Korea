@@ -1,0 +1,78 @@
+name: Update workation data and deploy Pages
+
+on:
+  push:
+    branches: [main]
+
+  schedule:
+    - cron: '17 */6 * * *'
+
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: '테스트할 프로그램 수 (0 = 전체)'
+        required: false
+        default: '0'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install updater dependencies
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: pip install -r scripts/requirements.txt
+
+      - name: Check official workation sites
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        env:
+          MANUAL_LIMIT: ${{ github.event.inputs.limit || '0' }}
+        run: python scripts/update_programs.py --limit "$MANUAL_LIMIT" --delay 1.0
+
+      - name: Save updated data to repository
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name "workation-update-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/programs.json site/data/sync_status.json
+          git diff --cached --quiet || git commit -m "chore: update workation status"
+          git push
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
