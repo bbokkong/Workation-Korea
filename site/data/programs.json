@@ -25,10 +25,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:04.840984+00:00",
+    "source_checked_at": "2026-09-14T03:38:34.453200+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "부산 공식 페이지에서 현재 모집 상태를 확정하지 못함",
+    "status_confidence": 0.55,
+    "status_verified": false,
+    "source_final_url": "https://www.busaness.com/",
+    "source_title_matched": false
   },
   {
     "id": 2,
@@ -53,10 +56,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:06.607698+00:00",
+    "source_checked_at": "2026-09-14T03:38:36.500973+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "해당 프로그램의 현재 모집 상태를 자동 판별하지 못함",
+    "status_confidence": 0.4,
+    "status_verified": false,
+    "source_final_url": "https://waveinhaeundae.com/",
+    "source_title_matched": true
   },
   {
     "id": 3,
@@ -81,10 +87,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:08.295540+00:00",
+    "source_checked_at": "2026-09-14T03:38:38.117051+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "해당 프로그램의 현재 모집 상태를 자동 판별하지 못함",
+    "status_confidence": 0.4,
+    "status_verified": false,
+    "source_final_url": "https://waveinhaeundae.com/",
+    "source_title_matched": true
   },
   {
     "id": 4,
@@ -105,14 +114,17 @@
     "support_text": "한국관광공사 : 2박 3만원, 4박 6만원 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": 12.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:09.905125+00:00",
+    "source_checked_at": "2026-09-14T03:38:39.702974+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeonggi-pocheon/24",
+    "source_title_matched": false
   },
   {
     "id": 5,
@@ -137,10 +149,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:12.566194+00:00",
+    "source_checked_at": "2026-09-14T03:38:42.389229+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/busan-seogu/3054",
+    "source_title_matched": false
   },
   {
     "id": 6,
@@ -160,14 +175,17 @@
     "support_text": "워케이션 참여 객실당 숙박비 50% 지원, 오피스 제공, 지역상품권 3만원권 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": 14.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:14.406220+00:00",
+    "source_checked_at": "2026-09-14T03:38:44.259217+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "해당 프로그램의 현재 모집 상태를 자동 판별하지 못함",
+    "status_confidence": 0.4,
+    "status_verified": false,
+    "source_final_url": "https://www.dsworcation.com/",
+    "source_title_matched": true
   },
   {
     "id": 7,
@@ -187,14 +205,17 @@
     "support_text": "워케이션 참여 객실당 숙박비 50% 지원, 오피스 제공, 지역상품권 3만원권 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": 8.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:16.410670+00:00",
+    "source_checked_at": "2026-09-14T03:38:46.307435+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "해당 프로그램의 현재 모집 상태를 자동 판별하지 못함",
+    "status_confidence": 0.4,
+    "status_verified": false,
+    "source_final_url": "https://www.dsworcation.com/",
+    "source_title_matched": true
   },
   {
     "id": 8,
@@ -218,10 +239,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:18.219301+00:00",
+    "source_checked_at": "2026-09-14T03:38:48.276536+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "해당 프로그램의 현재 모집 상태를 자동 판별하지 못함",
+    "status_confidence": 0.4,
+    "status_verified": false,
+    "source_final_url": "https://www.dssiseol.or.kr/pages/sisul/page.html?mc=1523",
+    "source_title_matched": true
   },
   {
     "id": 9,
@@ -245,10 +269,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:20.568483+00:00",
+    "source_checked_at": "2026-09-14T03:38:50.536491+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/daegu-dalseong/3056",
+    "source_title_matched": false
   },
   {
     "id": 10,
@@ -272,10 +299,13 @@
     "remaining_seats": null,
     "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:22.439874+00:00",
+    "source_checked_at": "2026-09-14T03:38:52.659990+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 프로그램 페이지에서 활성 신청 문구 확인: 신청하기",
+    "status_confidence": 0.91,
+    "status_verified": true,
+    "source_final_url": "https://thehyuil.co.kr/programs/gangwon-yangyang/2",
+    "source_title_matched": true
   },
   {
     "id": 11,
@@ -295,14 +325,17 @@
     "support_text": "· 어촌어항공단 : 1박당 5만원, 공유오피스, 어촌 체험 1회 지원 (최대 4박) · · 인천관광공사 : 1박당 2.5만원 지원 (최대 4박)",
     "has_support": true,
     "stay_max": null,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:24.843374+00:00",
+    "source_checked_at": "2026-09-14T03:38:55.295892+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/seoul-seongdong/1",
+    "source_title_matched": false
   },
   {
     "id": 12,
@@ -326,10 +359,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:27.165490+00:00",
+    "source_checked_at": "2026-09-14T03:38:57.795329+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/incheon-yeongjong/3079",
+    "source_title_matched": false
   },
   {
     "id": 13,
@@ -353,10 +389,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:29.297531+00:00",
+    "source_checked_at": "2026-09-14T03:38:59.588540+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/ulsan-junggu/3082",
+    "source_title_matched": false
   },
   {
     "id": 14,
@@ -380,10 +419,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:30.993669+00:00",
+    "source_checked_at": "2026-09-14T03:39:01.578014+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/ulsan-junggu/3082",
+    "source_title_matched": false
   },
   {
     "id": 15,
@@ -407,10 +449,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:33.001396+00:00",
+    "source_checked_at": "2026-09-14T03:39:03.227732+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/ulsan-namgu/3083",
+    "source_title_matched": false
   },
   {
     "id": 16,
@@ -434,10 +479,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:34.839140+00:00",
+    "source_checked_at": "2026-09-14T03:39:05.436472+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/ulsan-namgu/3083",
+    "source_title_matched": false
   },
   {
     "id": 17,
@@ -461,10 +509,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:36.510752+00:00",
+    "source_checked_at": "2026-09-14T03:39:07.338775+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/ulsan-donggu/3025",
+    "source_title_matched": false
   },
   {
     "id": 18,
@@ -488,10 +539,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:38.197229+00:00",
+    "source_checked_at": "2026-09-14T03:39:09.142379+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/ulsan-bukgu/3059",
+    "source_title_matched": false
   },
   {
     "id": 19,
@@ -515,10 +569,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:39.872959+00:00",
+    "source_checked_at": "2026-09-14T03:39:10.948577+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/ulsan-uljugun/3084",
+    "source_title_matched": false
   },
   {
     "id": 20,
@@ -543,10 +600,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:41.553942+00:00",
+    "source_checked_at": "2026-09-14T03:39:12.938622+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeonggi-gapyeong/3077",
+    "source_title_matched": false
   },
   {
     "id": 21,
@@ -570,10 +630,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:43.238634+00:00",
+    "source_checked_at": "2026-09-14T03:39:14.698657+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeonggi-dongducheon/3074",
+    "source_title_matched": false
   },
   {
     "id": 22,
@@ -597,10 +660,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:44.923614+00:00",
+    "source_checked_at": "2026-09-14T03:39:16.416767+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeonggi-yeoncheon/3076",
+    "source_title_matched": false
   },
   {
     "id": 23,
@@ -623,10 +689,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:46.710492+00:00",
+    "source_checked_at": "2026-09-14T03:39:18.411441+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeonggi-paju/3078",
+    "source_title_matched": false
   },
   {
     "id": 24,
@@ -650,10 +719,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:48.413616+00:00",
+    "source_checked_at": "2026-09-14T03:39:20.202558+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeonggi-pocheon/3075",
+    "source_title_matched": false
   },
   {
     "id": 25,
@@ -677,10 +749,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:50.090559+00:00",
+    "source_checked_at": "2026-09-14T03:39:22.159709+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeonggi-hwaseong/3101",
+    "source_title_matched": false
   },
   {
     "id": 26,
@@ -704,10 +779,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:51.779352+00:00",
+    "source_checked_at": "2026-09-14T03:39:23.925122+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://dearmonday.io/reservation/list/2349",
+    "source_title_matched": false
   },
   {
     "id": 27,
@@ -731,10 +809,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:53.337689+00:00",
+    "source_checked_at": "2026-09-14T03:39:25.516152+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://dearmonday.io/reservation/list/2192",
+    "source_title_matched": false
   },
   {
     "id": 28,
@@ -759,10 +840,13 @@
     "remaining_seats": null,
     "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:54.872337+00:00",
+    "source_checked_at": "2026-09-14T03:39:27.070613+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "디어먼데이 예약 페이지에서 해당 프로그램의 예약 가능 문맥 확인",
+    "status_confidence": 0.9,
+    "status_verified": true,
+    "source_final_url": "https://dearmonday.io/reservation/list/2254",
+    "source_title_matched": true
   },
   {
     "id": 29,
@@ -782,14 +866,17 @@
     "support_text": "· 한국관광공사 : 2박 / 3박 3만원 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": 8.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:56.920931+00:00",
+    "source_checked_at": "2026-09-14T03:39:29.047746+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/chungnam-taean/42",
+    "source_title_matched": false
   },
   {
     "id": 30,
@@ -813,10 +900,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:50:59.359944+00:00",
+    "source_checked_at": "2026-09-14T03:39:31.789338+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gangwon-sockcho/15",
+    "source_title_matched": false
   },
   {
     "id": 31,
@@ -841,10 +931,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:01.088894+00:00",
+    "source_checked_at": "2026-09-14T03:39:33.590384+00:00",
     "source_http_status": null,
     "source_note": "접속 오류: SSLError",
-    "status_confidence": 0.05
+    "status_confidence": 0.05,
+    "status_verified": false,
+    "source_final_url": "https://www.sokcho.go.kr/ct/tour/worcation",
+    "source_title_matched": false
   },
   {
     "id": 32,
@@ -865,14 +958,17 @@
     "support_text": "· 어촌어항공단 : 1박당 5만원, 공유오피스, 어촌 체험 1회 지원 (최대 4박) · 기관 지원사항",
     "has_support": true,
     "stay_max": null,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:04.760692+00:00",
+    "source_checked_at": "2026-09-14T03:39:35.330259+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeju-sehwa/59",
+    "source_title_matched": false
   },
   {
     "id": 33,
@@ -893,14 +989,17 @@
     "support_text": "2박 : 2만원, 3박 : 5만원 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": 12.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:07.272510+00:00",
+    "source_checked_at": "2026-09-14T03:39:38.000293+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jp-hokkaido-sapporo/30",
+    "source_title_matched": false
   },
   {
     "id": 34,
@@ -925,10 +1024,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:09.645609+00:00",
+    "source_checked_at": "2026-09-14T03:39:40.821283+00:00",
     "source_http_status": null,
     "source_note": "접속 오류: SSLError",
-    "status_confidence": 0.05
+    "status_confidence": 0.05,
+    "status_verified": false,
+    "source_final_url": "https://waveworksyy.com/yyIndex",
+    "source_title_matched": false
   },
   {
     "id": 35,
@@ -949,14 +1051,17 @@
     "support_text": "· 한국관광공사 : 2박 3만원, 4박 6만원 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": 11.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:11.302639+00:00",
+    "source_checked_at": "2026-09-14T03:39:42.434418+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeonnam-suncheon/55",
+    "source_title_matched": false
   },
   {
     "id": 36,
@@ -980,10 +1085,13 @@
     "remaining_seats": null,
     "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:13.626095+00:00",
+    "source_checked_at": "2026-09-14T03:39:44.889857+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "해당 프로그램 문맥에서 신청 가능 문구 확인: 참가 신청",
+    "status_confidence": 0.88,
+    "status_verified": true,
+    "source_final_url": "https://www.healience.co.kr/event/view?eventNbr=763",
+    "source_title_matched": true
   },
   {
     "id": 37,
@@ -1007,10 +1115,13 @@
     "remaining_seats": null,
     "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:16.003612+00:00",
+    "source_checked_at": "2026-09-14T03:39:47.366874+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "디어먼데이 예약 페이지에서 해당 프로그램의 예약 가능 문맥 확인",
+    "status_confidence": 0.9,
+    "status_verified": true,
+    "source_final_url": "https://dearmonday.io/reservation/list/2209",
+    "source_title_matched": true
   },
   {
     "id": 38,
@@ -1035,10 +1146,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:18.030850+00:00",
+    "source_checked_at": "2026-09-14T03:39:49.791583+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/chungbuk-danyang/3080",
+    "source_title_matched": false
   },
   {
     "id": 39,
@@ -1063,10 +1177,13 @@
     "remaining_seats": null,
     "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:19.816234+00:00",
+    "source_checked_at": "2026-09-14T03:39:51.600404+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "해당 프로그램 문맥에서 신청 가능 문구 확인: 예약하기",
+    "status_confidence": 0.88,
+    "status_verified": true,
+    "source_final_url": "https://jchealing.kr/",
+    "source_title_matched": true
   },
   {
     "id": 40,
@@ -1090,10 +1207,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:22.266848+00:00",
+    "source_checked_at": "2026-09-14T03:39:54.155600+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/chungnam-gongju/20",
+    "source_title_matched": false
   },
   {
     "id": 41,
@@ -1117,10 +1237,13 @@
     "remaining_seats": null,
     "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:23.994618+00:00",
+    "source_checked_at": "2026-09-14T03:39:55.953879+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "디어먼데이 예약 페이지에서 해당 프로그램의 예약 가능 문맥 확인",
+    "status_confidence": 0.9,
+    "status_verified": true,
+    "source_final_url": "https://dearmonday.io/reservation/list/2324",
+    "source_title_matched": true
   },
   {
     "id": 42,
@@ -1145,10 +1268,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:25.867145+00:00",
+    "source_checked_at": "2026-09-14T03:39:57.901846+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/chungnam-dangjin/3069",
+    "source_title_matched": false
   },
   {
     "id": 43,
@@ -1169,14 +1295,17 @@
     "support_text": "1박당 5만원, 여행자 보험 가입, 체험활동 2만원 내 지원 (최대 4박) · 기관 지원사항",
     "has_support": true,
     "stay_max": 10.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:27.578902+00:00",
+    "source_checked_at": "2026-09-14T03:39:59.617924+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/chungnam-taean/17",
+    "source_title_matched": false
   },
   {
     "id": 44,
@@ -1197,14 +1326,17 @@
     "support_text": "· 충남문화관광재단 : 1박당 5만원, 여행자 보험 가입, 체험활동 2만원 내 지원 (최대 4박) · · 한국어촌어항공단 : 1박당 5만원, 공유오피스, 어촌 체험 1회 지원",
     "has_support": true,
     "stay_max": 8.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:31.451740+00:00",
+    "source_checked_at": "2026-09-14T03:40:02.293441+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeju-jejusi/6",
+    "source_title_matched": false
   },
   {
     "id": 45,
@@ -1224,14 +1356,17 @@
     "support_text": "1박당 5만원, 여행자 보험 가입, 체험활동 2만원 내 지원 (최대 4박) · 기관 지원사항",
     "has_support": true,
     "stay_max": null,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:34.016393+00:00",
+    "source_checked_at": "2026-09-14T03:40:04.860002+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/chungnam-dangjin/14",
+    "source_title_matched": false
   },
   {
     "id": 46,
@@ -1252,14 +1387,17 @@
     "support_text": "1박당 5만원, 여행자 보험 가입, 체험활동 2만원 내 지원 (최대 4박) · 기관 지원사항",
     "has_support": true,
     "stay_max": 12.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:36.805457+00:00",
+    "source_checked_at": "2026-09-14T03:40:09.342249+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeju-seogwipo/19",
+    "source_title_matched": false
   },
   {
     "id": 47,
@@ -1279,14 +1417,17 @@
     "support_text": "1박당 5만원, 여행자 보험 가입 지원, 체험활동 2만원내 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": null,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:39.159163+00:00",
+    "source_checked_at": "2026-09-14T03:40:11.819773+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeonbuk-buan/21",
+    "source_title_matched": false
   },
   {
     "id": 48,
@@ -1307,14 +1448,17 @@
     "support_text": "· 충남문화관광재단 : 1박당 5만원, 여행자 보험 가입, 체험활동 2만원 내 지원 (최대 4박) · · 한국관광공사 : 2박 3만원, 4박 6만원 지원",
     "has_support": true,
     "stay_max": 9.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:43.033499+00:00",
+    "source_checked_at": "2026-09-14T03:40:14.441957+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/chungnam-yesan/16",
+    "source_title_matched": false
   },
   {
     "id": 49,
@@ -1335,14 +1479,17 @@
     "support_text": "지원정보 확인",
     "has_support": false,
     "stay_max": 26.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:45.737650+00:00",
+    "source_checked_at": "2026-09-14T03:40:17.008692+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "해당 프로그램 문맥에서 신청 가능 문구 확인: 예약 가능",
+    "status_confidence": 0.88,
+    "status_verified": true,
+    "source_final_url": "https://www.sanghafarm.co.kr/hotel/wedding/workation.jsp",
+    "source_title_matched": true
   },
   {
     "id": 50,
@@ -1363,14 +1510,17 @@
     "support_text": "지원정보 확인",
     "has_support": false,
     "stay_max": 11.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:47.952461+00:00",
-    "source_http_status": null,
-    "source_note": "접속 오류: SSLError",
-    "status_confidence": 0.05
+    "source_checked_at": "2026-09-14T03:40:20.177988+00:00",
+    "source_http_status": 200,
+    "source_note": "해당 프로그램 문맥에서 신청 가능 문구 확인: 예약하기",
+    "status_confidence": 0.88,
+    "status_verified": true,
+    "source_final_url": "https://www.wellparkhotel.com/",
+    "source_title_matched": true
   },
   {
     "id": 51,
@@ -1394,10 +1544,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:50.102968+00:00",
+    "source_checked_at": "2026-09-14T03:40:22.660757+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeonbuk-bangcukdo/5",
+    "source_title_matched": false
   },
   {
     "id": 52,
@@ -1422,10 +1575,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:51.889781+00:00",
+    "source_checked_at": "2026-09-14T03:40:24.520181+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "전북 공식 페이지에서 해당 프로그램 모집 상태를 확정하지 못함",
+    "status_confidence": 0.55,
+    "status_verified": false,
+    "source_final_url": "https://www.jb-worcation.com/",
+    "source_title_matched": false
   },
   {
     "id": 53,
@@ -1450,10 +1606,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:53.973772+00:00",
+    "source_checked_at": "2026-09-14T03:40:27.601524+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "전북 공식 페이지에서 해당 프로그램 모집 상태를 확정하지 못함",
+    "status_confidence": 0.55,
+    "status_verified": false,
+    "source_final_url": "https://www.jb-worcation.com/",
+    "source_title_matched": false
   },
   {
     "id": 54,
@@ -1477,10 +1636,13 @@
     "remaining_seats": null,
     "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:55.569595+00:00",
+    "source_checked_at": "2026-09-14T03:40:29.912403+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "디어먼데이 예약 페이지에서 해당 프로그램의 예약 가능 문맥 확인",
+    "status_confidence": 0.9,
+    "status_verified": true,
+    "source_final_url": "https://dearmonday.io/reservation/list/2179",
+    "source_title_matched": true
   },
   {
     "id": 55,
@@ -1505,10 +1667,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:57.494158+00:00",
+    "source_checked_at": "2026-09-14T03:40:31.866957+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "전북 공식 페이지에서 해당 프로그램 모집 상태를 확정하지 못함",
+    "status_confidence": 0.55,
+    "status_verified": false,
+    "source_final_url": "https://www.jb-worcation.com/",
+    "source_title_matched": false
   },
   {
     "id": 56,
@@ -1533,10 +1698,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:51:59.308393+00:00",
+    "source_checked_at": "2026-09-14T03:40:33.756280+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeonbuk-buan/65",
+    "source_title_matched": false
   },
   {
     "id": 57,
@@ -1560,10 +1728,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:01.077729+00:00",
-    "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_checked_at": "2026-09-14T03:40:35.592164+00:00",
+    "source_http_status": null,
+    "source_note": "접속 오류: ConnectionError",
+    "status_confidence": 0.05,
+    "status_verified": false,
+    "source_final_url": "http://www.쉴랜드.com/",
+    "source_title_matched": false
   },
   {
     "id": 58,
@@ -1587,10 +1758,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:18.074386+00:00",
+    "source_checked_at": "2026-09-14T03:40:46.624717+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeonbuk-jangsu/3081",
+    "source_title_matched": false
   },
   {
     "id": 59,
@@ -1614,10 +1788,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:19.871099+00:00",
+    "source_checked_at": "2026-09-14T03:40:48.460853+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "전북 공식 페이지에서 해당 프로그램 모집 상태를 확정하지 못함",
+    "status_confidence": 0.55,
+    "status_verified": false,
+    "source_final_url": "https://www.jb-worcation.com/",
+    "source_title_matched": false
   },
   {
     "id": 60,
@@ -1641,10 +1818,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:21.469993+00:00",
+    "source_checked_at": "2026-09-14T03:40:50.528945+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "전북 공식 페이지에서 해당 프로그램 모집 상태를 확정하지 못함",
+    "status_confidence": 0.55,
+    "status_verified": false,
+    "source_final_url": "https://www.jb-worcation.com/",
+    "source_title_matched": false
   },
   {
     "id": 61,
@@ -1668,10 +1848,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:23.398766+00:00",
+    "source_checked_at": "2026-09-14T03:40:52.268243+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://dearmonday.io/reservation/list/2258",
+    "source_title_matched": false
   },
   {
     "id": 62,
@@ -1695,10 +1878,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:24.897600+00:00",
+    "source_checked_at": "2026-09-14T03:40:53.842689+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "전북 공식 페이지에서 해당 프로그램 모집 상태를 확정하지 못함",
+    "status_confidence": 0.55,
+    "status_verified": false,
+    "source_final_url": "https://www.jb-worcation.com/sub/program-12.php",
+    "source_title_matched": false
   },
   {
     "id": 63,
@@ -1718,14 +1904,17 @@
     "support_text": "· 전남관광재단 : 1박당 10만원 지원 (최대 4박) · · 한국관광공사 : 2박 3만원 지원",
     "has_support": true,
     "stay_max": null,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:26.626965+00:00",
+    "source_checked_at": "2026-09-14T03:40:56.130226+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/chungnam-yesan/38",
+    "source_title_matched": false
   },
   {
     "id": 64,
@@ -1749,10 +1938,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:29.982899+00:00",
+    "source_checked_at": "2026-09-14T03:40:58.690221+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeonnam-suncheon/3000",
+    "source_title_matched": false
   },
   {
     "id": 65,
@@ -1776,10 +1968,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:31.746480+00:00",
+    "source_checked_at": "2026-09-14T03:41:00.538611+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeonnam-naju/3003",
+    "source_title_matched": false
   },
   {
     "id": 66,
@@ -1800,14 +1995,17 @@
     "support_text": "지원정보 확인",
     "has_support": false,
     "stay_max": 6.0,
-    "status": "모집예정",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:33.441904+00:00",
+    "source_checked_at": "2026-09-14T03:41:02.279812+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 모집예정 문구 감지",
-    "status_confidence": 0.84
+    "source_note": "해당 프로그램의 현재 모집 상태를 자동 판별하지 못함",
+    "status_confidence": 0.4,
+    "status_verified": false,
+    "source_final_url": "https://rustictown.co.kr/",
+    "source_title_matched": true
   },
   {
     "id": 67,
@@ -1828,14 +2026,17 @@
     "support_text": "기관 지원사항 · 2박 : 15만원, 3박 20만원 지원",
     "has_support": true,
     "stay_max": 6.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:35.449809+00:00",
+    "source_checked_at": "2026-09-14T03:41:04.374358+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "디어먼데이 페이지에서 현재 예약 가능 여부를 확정하지 못함",
+    "status_confidence": 0.5,
+    "status_verified": false,
+    "source_final_url": "https://dearmonday.io/reservation/list/2320",
+    "source_title_matched": true
   },
   {
     "id": 68,
@@ -1859,10 +2060,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:37.219332+00:00",
+    "source_checked_at": "2026-09-14T03:41:06.196679+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeonnam-goheung/3002",
+    "source_title_matched": false
   },
   {
     "id": 69,
@@ -1887,10 +2091,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:38.906132+00:00",
+    "source_checked_at": "2026-09-14T03:41:08.002398+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeonnam-haenam/3006",
+    "source_title_matched": false
   },
   {
     "id": 70,
@@ -1915,10 +2122,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:40.588604+00:00",
+    "source_checked_at": "2026-09-14T03:41:09.837710+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeonnam-hampyeong/8",
+    "source_title_matched": false
   },
   {
     "id": 71,
@@ -1942,10 +2152,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:42.314209+00:00",
+    "source_checked_at": "2026-09-14T03:41:11.940711+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeonnam-hampyeong/3005",
+    "source_title_matched": false
   },
   {
     "id": 72,
@@ -1970,10 +2183,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:44.068555+00:00",
+    "source_checked_at": "2026-09-14T03:41:13.724082+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "해당 프로그램의 현재 모집 상태를 자동 판별하지 못함",
+    "status_confidence": 0.4,
+    "status_verified": false,
+    "source_final_url": "http://www.wonirc.org/",
+    "source_title_matched": true
   },
   {
     "id": 73,
@@ -1993,14 +2209,17 @@
     "support_text": "· 한국어촌어항공단 : 1박당 5만원, 공유오피스, 어촌 체험 1회 지원 (최대 4박) · · 한국관광공사 : 2박 3만원, 4박 6만원 지원",
     "has_support": true,
     "stay_max": 10.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:45.938889+00:00",
+    "source_checked_at": "2026-09-14T03:41:16.213186+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeonggi-dongducheon/9",
+    "source_title_matched": false
   },
   {
     "id": 74,
@@ -2024,10 +2243,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:48.322741+00:00",
+    "source_checked_at": "2026-09-14T03:41:18.762225+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeonnam-jindo/3004",
+    "source_title_matched": false
   },
   {
     "id": 75,
@@ -2051,10 +2273,13 @@
     "remaining_seats": null,
     "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:50.004650+00:00",
+    "source_checked_at": "2026-09-14T03:41:20.547201+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "디어먼데이 예약 페이지에서 해당 프로그램의 예약 가능 문맥 확인",
+    "status_confidence": 0.9,
+    "status_verified": true,
+    "source_final_url": "https://dearmonday.io/reservation/list/2210",
+    "source_title_matched": true
   },
   {
     "id": 76,
@@ -2078,10 +2303,13 @@
     "remaining_seats": null,
     "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:52.054180+00:00",
+    "source_checked_at": "2026-09-14T03:41:22.757853+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "디어먼데이 예약 페이지에서 해당 프로그램의 예약 가능 문맥 확인",
+    "status_confidence": 0.9,
+    "status_verified": true,
+    "source_final_url": "https://dearmonday.io/reservation/list/2220",
+    "source_title_matched": true
   },
   {
     "id": 77,
@@ -2106,10 +2334,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:54.097226+00:00",
+    "source_checked_at": "2026-09-14T03:41:24.689773+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeongbuk-andong/3060",
+    "source_title_matched": false
   },
   {
     "id": 78,
@@ -2133,10 +2364,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:56.006214+00:00",
+    "source_checked_at": "2026-09-14T03:41:26.469539+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeongbuk-yeongcheon/146",
+    "source_title_matched": false
   },
   {
     "id": 79,
@@ -2156,14 +2390,17 @@
     "support_text": "· 한국어촌어항공단 :1박당 5만원, 공유오피스, 어촌 체험 1회 지원 (최대 4박) · · 한국관광공사 : 2박 3만원, 4박 6만원 지원",
     "has_support": true,
     "stay_max": 7.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:52:57.944145+00:00",
+    "source_checked_at": "2026-09-14T03:41:28.299805+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/chungnam-gongju/12",
+    "source_title_matched": false
   },
   {
     "id": 80,
@@ -2187,10 +2424,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:00.314687+00:00",
+    "source_checked_at": "2026-09-14T03:41:30.850925+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeongnam-geoje/11",
+    "source_title_matched": false
   },
   {
     "id": 81,
@@ -2215,10 +2455,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:02.024340+00:00",
+    "source_checked_at": "2026-09-14T03:41:32.830879+00:00",
     "source_http_status": null,
     "source_note": "접속 오류: ConnectionError",
-    "status_confidence": 0.05
+    "status_confidence": 0.05,
+    "status_verified": false,
+    "source_final_url": "http://www.룡대미어촌체험마을.kr",
+    "source_title_matched": false
   },
   {
     "id": 82,
@@ -2242,10 +2485,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:07.434524+00:00",
+    "source_checked_at": "2026-09-14T03:41:34.351688+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "해당 프로그램의 현재 모집 상태를 자동 판별하지 못함",
+    "status_confidence": 0.4,
+    "status_verified": false,
+    "source_final_url": "https://yolocation.dinosea.com/",
+    "source_title_matched": true
   },
   {
     "id": 83,
@@ -2265,14 +2511,17 @@
     "support_text": "지원정보 확인",
     "has_support": false,
     "stay_max": 14.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:10.681139+00:00",
+    "source_checked_at": "2026-09-14T03:41:37.354108+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/incheon-ponae/32",
+    "source_title_matched": false
   },
   {
     "id": 84,
@@ -2292,14 +2541,17 @@
     "support_text": "지원정보 확인",
     "has_support": false,
     "stay_max": 12.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:13.347678+00:00",
+    "source_checked_at": "2026-09-14T03:41:40.077318+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/incheon-ponae/32",
+    "source_title_matched": false
   },
   {
     "id": 85,
@@ -2323,10 +2575,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:15.721404+00:00",
+    "source_checked_at": "2026-09-14T03:41:42.923613+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeongnam-namhae/148",
+    "source_title_matched": false
   },
   {
     "id": 86,
@@ -2350,10 +2605,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:17.421332+00:00",
+    "source_checked_at": "2026-09-14T03:41:44.731350+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeongnam-namhae/10",
+    "source_title_matched": false
   },
   {
     "id": 87,
@@ -2377,10 +2635,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:19.128273+00:00",
+    "source_checked_at": "2026-09-14T03:41:46.642064+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://dearmonday.io/reservation/list/2311",
+    "source_title_matched": false
   },
   {
     "id": 88,
@@ -2405,10 +2666,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:20.672793+00:00",
+    "source_checked_at": "2026-09-14T03:41:48.243052+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeongnam-miryang/147",
+    "source_title_matched": false
   },
   {
     "id": 89,
@@ -2432,10 +2696,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:22.400199+00:00",
+    "source_checked_at": "2026-09-14T03:41:51.099180+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://jinhealing.imweb.me/?idx=24",
+    "source_title_matched": false
   },
   {
     "id": 90,
@@ -2460,10 +2727,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:23.964504+00:00",
+    "source_checked_at": "2026-09-14T03:41:52.729065+00:00",
     "source_http_status": 200,
-    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
-    "status_confidence": 0.35
+    "source_note": "해당 프로그램의 현재 모집 상태를 자동 판별하지 못함",
+    "status_confidence": 0.28,
+    "status_verified": false,
+    "source_final_url": "http://www.bearvillage.co.kr/",
+    "source_title_matched": false
   },
   {
     "id": 91,
@@ -2488,10 +2758,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:26.198404+00:00",
+    "source_checked_at": "2026-09-14T03:41:55.467042+00:00",
     "source_http_status": null,
     "source_note": "접속 오류: ConnectionError",
-    "status_confidence": 0.05
+    "status_confidence": 0.05,
+    "status_verified": false,
+    "source_final_url": "https://jejuworkation.or.kr/",
+    "source_title_matched": false
   },
   {
     "id": 92,
@@ -2515,10 +2788,13 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:28.098151+00:00",
+    "source_checked_at": "2026-09-14T03:41:57.369565+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
-    "status_confidence": 0.15
+    "status_confidence": 0.1,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/jeju-sagye/3",
+    "source_title_matched": false
   },
   {
     "id": 93,
@@ -2538,13 +2814,16 @@
     "support_text": "기관 지원사항",
     "has_support": true,
     "stay_max": 12.0,
-    "status": "모집중",
+    "status": "확인필요",
     "remaining_seats": null,
-    "remaining_text": "공식 미공개",
+    "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:53:29.866046+00:00",
+    "source_checked_at": "2026-09-14T03:41:59.199566+00:00",
     "source_http_status": 200,
-    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
-    "status_confidence": 0.8
+    "source_note": "더휴일 페이지는 확인했으나 해당 프로그램의 현재 신청 가능 여부를 확정하지 못함",
+    "status_confidence": 0.52,
+    "status_verified": false,
+    "source_final_url": "https://thehyuil.co.kr/programs/gyeonggi-yeoncheon/4",
+    "source_title_matched": false
   }
 ]
