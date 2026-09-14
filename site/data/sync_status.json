@@ -1,11 +1,11 @@
 {
   "ok": true,
   "last_sync": {
-    "started_at": "2026-09-14T02:45:43.987125+00:00",
-    "finished_at": "2026-09-14T02:45:53.682973+00:00",
-    "checked": 5,
-    "changed": 1,
-    "errors": 0
+    "started_at": "2026-09-14T02:50:04.840967+00:00",
+    "finished_at": "2026-09-14T02:53:31.181283+00:00",
+    "checked": 93,
+    "changed": 30,
+    "errors": 5
   },
   "note": "GitHub Actions 자동 확인"
 }

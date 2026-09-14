@@ -25,7 +25,7 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:45:43.987143+00:00",
+    "source_checked_at": "2026-09-14T02:50:04.840984+00:00",
     "source_http_status": 200,
     "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
     "status_confidence": 0.35
@@ -53,7 +53,7 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:45:46.346112+00:00",
+    "source_checked_at": "2026-09-14T02:50:06.607698+00:00",
     "source_http_status": 200,
     "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
     "status_confidence": 0.35
@@ -81,7 +81,7 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:45:48.061069+00:00",
+    "source_checked_at": "2026-09-14T02:50:08.295540+00:00",
     "source_http_status": 200,
     "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
     "status_confidence": 0.35
@@ -109,7 +109,7 @@
     "remaining_seats": null,
     "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:45:49.697728+00:00",
+    "source_checked_at": "2026-09-14T02:50:09.905125+00:00",
     "source_http_status": 200,
     "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
     "status_confidence": 0.8
@@ -137,7 +137,7 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": "2026-09-14T02:45:52.630516+00:00",
+    "source_checked_at": "2026-09-14T02:50:12.566194+00:00",
     "source_http_status": 404,
     "source_note": "공식 페이지 HTTP 404",
     "status_confidence": 0.15
@@ -160,14 +160,14 @@
     "support_text": "워케이션 참여 객실당 숙박비 50% 지원, 오피스 제공, 지역상품권 3만원권 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": 14.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:14.406220+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 7,
@@ -187,14 +187,14 @@
     "support_text": "워케이션 참여 객실당 숙박비 50% 지원, 오피스 제공, 지역상품권 3만원권 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": 8.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:16.410670+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 8,
@@ -218,10 +218,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:18.219301+00:00",
+    "source_http_status": 200,
+    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
+    "status_confidence": 0.35
   },
   {
     "id": 9,
@@ -245,10 +245,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:20.568483+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 10,
@@ -268,14 +268,14 @@
     "support_text": "· 어촌어항공단 : 1박당 5만원, 공유오피스, 어촌 체험 1회 지원 (최대 4박) · · 인천관광공사 : 1박당 2.5만원 지원 (최대 4박)",
     "has_support": true,
     "stay_max": 20.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:22.439874+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 11,
@@ -295,14 +295,14 @@
     "support_text": "· 어촌어항공단 : 1박당 5만원, 공유오피스, 어촌 체험 1회 지원 (최대 4박) · · 인천관광공사 : 1박당 2.5만원 지원 (최대 4박)",
     "has_support": true,
     "stay_max": null,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:24.843374+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 12,
@@ -326,10 +326,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:27.165490+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 13,
@@ -353,10 +353,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:29.297531+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 14,
@@ -380,10 +380,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:30.993669+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 15,
@@ -407,10 +407,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:33.001396+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 16,
@@ -434,10 +434,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:34.839140+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 17,
@@ -461,10 +461,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:36.510752+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 18,
@@ -488,10 +488,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:38.197229+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 19,
@@ -515,10 +515,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:39.872959+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 20,
@@ -543,10 +543,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:41.553942+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 21,
@@ -570,10 +570,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:43.238634+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 22,
@@ -597,10 +597,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:44.923614+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 23,
@@ -623,10 +623,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:46.710492+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 24,
@@ -650,10 +650,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:48.413616+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 25,
@@ -677,10 +677,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:50.090559+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 26,
@@ -704,10 +704,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:51.779352+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 27,
@@ -731,10 +731,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:53.337689+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 28,
@@ -755,14 +755,14 @@
     "support_text": "기관 지원사항 · 2박: 15만원, 3박 20만원 지원",
     "has_support": true,
     "stay_max": 22.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:54.872337+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 29,
@@ -782,14 +782,14 @@
     "support_text": "· 한국관광공사 : 2박 / 3박 3만원 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": 8.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:56.920931+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 30,
@@ -813,10 +813,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:50:59.359944+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 31,
@@ -841,10 +841,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
+    "source_checked_at": "2026-09-14T02:51:01.088894+00:00",
     "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_note": "접속 오류: SSLError",
+    "status_confidence": 0.05
   },
   {
     "id": 32,
@@ -865,14 +865,14 @@
     "support_text": "· 어촌어항공단 : 1박당 5만원, 공유오피스, 어촌 체험 1회 지원 (최대 4박) · 기관 지원사항",
     "has_support": true,
     "stay_max": null,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:04.760692+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 33,
@@ -893,14 +893,14 @@
     "support_text": "2박 : 2만원, 3박 : 5만원 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": 12.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:07.272510+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 34,
@@ -925,10 +925,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
+    "source_checked_at": "2026-09-14T02:51:09.645609+00:00",
     "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_note": "접속 오류: SSLError",
+    "status_confidence": 0.05
   },
   {
     "id": 35,
@@ -949,14 +949,14 @@
     "support_text": "· 한국관광공사 : 2박 3만원, 4박 6만원 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": 11.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:11.302639+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 36,
@@ -976,14 +976,14 @@
     "support_text": "지원정보 확인",
     "has_support": false,
     "stay_max": 20.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:13.626095+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 37,
@@ -1003,14 +1003,14 @@
     "support_text": "기관 지원사항 · 2박 : 15만원, 3박 20만원 지원",
     "has_support": true,
     "stay_max": 17.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:16.003612+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 38,
@@ -1035,10 +1035,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:18.030850+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 39,
@@ -1059,14 +1059,14 @@
     "support_text": "지원정보 확인",
     "has_support": false,
     "stay_max": null,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:19.816234+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 40,
@@ -1090,10 +1090,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:22.266848+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 41,
@@ -1113,14 +1113,14 @@
     "support_text": "2박 : 15만원, 3박 20만원 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": 12.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:23.994618+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 42,
@@ -1145,10 +1145,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:25.867145+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 43,
@@ -1169,14 +1169,14 @@
     "support_text": "1박당 5만원, 여행자 보험 가입, 체험활동 2만원 내 지원 (최대 4박) · 기관 지원사항",
     "has_support": true,
     "stay_max": 10.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:27.578902+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 44,
@@ -1197,14 +1197,14 @@
     "support_text": "· 충남문화관광재단 : 1박당 5만원, 여행자 보험 가입, 체험활동 2만원 내 지원 (최대 4박) · · 한국어촌어항공단 : 1박당 5만원, 공유오피스, 어촌 체험 1회 지원",
     "has_support": true,
     "stay_max": 8.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:31.451740+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 45,
@@ -1224,14 +1224,14 @@
     "support_text": "1박당 5만원, 여행자 보험 가입, 체험활동 2만원 내 지원 (최대 4박) · 기관 지원사항",
     "has_support": true,
     "stay_max": null,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:34.016393+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 46,
@@ -1252,14 +1252,14 @@
     "support_text": "1박당 5만원, 여행자 보험 가입, 체험활동 2만원 내 지원 (최대 4박) · 기관 지원사항",
     "has_support": true,
     "stay_max": 12.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:36.805457+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 47,
@@ -1279,14 +1279,14 @@
     "support_text": "1박당 5만원, 여행자 보험 가입 지원, 체험활동 2만원내 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": null,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:39.159163+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 48,
@@ -1307,14 +1307,14 @@
     "support_text": "· 충남문화관광재단 : 1박당 5만원, 여행자 보험 가입, 체험활동 2만원 내 지원 (최대 4박) · · 한국관광공사 : 2박 3만원, 4박 6만원 지원",
     "has_support": true,
     "stay_max": 9.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:43.033499+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 49,
@@ -1339,10 +1339,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:45.737650+00:00",
+    "source_http_status": 200,
+    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
+    "status_confidence": 0.35
   },
   {
     "id": 50,
@@ -1367,10 +1367,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
+    "source_checked_at": "2026-09-14T02:51:47.952461+00:00",
     "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_note": "접속 오류: SSLError",
+    "status_confidence": 0.05
   },
   {
     "id": 51,
@@ -1394,10 +1394,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:50.102968+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 52,
@@ -1422,10 +1422,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:51.889781+00:00",
+    "source_http_status": 200,
+    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
+    "status_confidence": 0.35
   },
   {
     "id": 53,
@@ -1450,10 +1450,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:53.973772+00:00",
+    "source_http_status": 200,
+    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
+    "status_confidence": 0.35
   },
   {
     "id": 54,
@@ -1473,14 +1473,14 @@
     "support_text": "2박 : 15만원, 3박 20만원 지원 · 기관 지원사항",
     "has_support": true,
     "stay_max": 12.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:55.569595+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 55,
@@ -1505,10 +1505,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:57.494158+00:00",
+    "source_http_status": 200,
+    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
+    "status_confidence": 0.35
   },
   {
     "id": 56,
@@ -1533,10 +1533,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:51:59.308393+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 57,
@@ -1560,10 +1560,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:01.077729+00:00",
+    "source_http_status": 200,
+    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
+    "status_confidence": 0.35
   },
   {
     "id": 58,
@@ -1587,10 +1587,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:18.074386+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 59,
@@ -1614,10 +1614,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:19.871099+00:00",
+    "source_http_status": 200,
+    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
+    "status_confidence": 0.35
   },
   {
     "id": 60,
@@ -1641,10 +1641,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:21.469993+00:00",
+    "source_http_status": 200,
+    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
+    "status_confidence": 0.35
   },
   {
     "id": 61,
@@ -1668,10 +1668,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:23.398766+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 62,
@@ -1695,10 +1695,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:24.897600+00:00",
+    "source_http_status": 200,
+    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
+    "status_confidence": 0.35
   },
   {
     "id": 63,
@@ -1718,14 +1718,14 @@
     "support_text": "· 전남관광재단 : 1박당 10만원 지원 (최대 4박) · · 한국관광공사 : 2박 3만원 지원",
     "has_support": true,
     "stay_max": null,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:26.626965+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 64,
@@ -1749,10 +1749,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:29.982899+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 65,
@@ -1776,10 +1776,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:31.746480+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 66,
@@ -1800,14 +1800,14 @@
     "support_text": "지원정보 확인",
     "has_support": false,
     "stay_max": 6.0,
-    "status": "확인필요",
+    "status": "모집예정",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:33.441904+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 모집예정 문구 감지",
+    "status_confidence": 0.84
   },
   {
     "id": 67,
@@ -1828,14 +1828,14 @@
     "support_text": "기관 지원사항 · 2박 : 15만원, 3박 20만원 지원",
     "has_support": true,
     "stay_max": 6.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:35.449809+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 68,
@@ -1859,10 +1859,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:37.219332+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 69,
@@ -1887,10 +1887,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:38.906132+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 70,
@@ -1915,10 +1915,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:40.588604+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 71,
@@ -1942,10 +1942,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:42.314209+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 72,
@@ -1970,10 +1970,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:44.068555+00:00",
+    "source_http_status": 200,
+    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
+    "status_confidence": 0.35
   },
   {
     "id": 73,
@@ -1993,14 +1993,14 @@
     "support_text": "· 한국어촌어항공단 : 1박당 5만원, 공유오피스, 어촌 체험 1회 지원 (최대 4박) · · 한국관광공사 : 2박 3만원, 4박 6만원 지원",
     "has_support": true,
     "stay_max": 10.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:45.938889+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 74,
@@ -2024,10 +2024,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:48.322741+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 75,
@@ -2047,14 +2047,14 @@
     "support_text": "기관 지원사항",
     "has_support": true,
     "stay_max": null,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:50.004650+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 76,
@@ -2074,14 +2074,14 @@
     "support_text": "2박 : 15만원, 3박 : 20만원 지원기관 지원사항",
     "has_support": true,
     "stay_max": 15.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:52.054180+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 77,
@@ -2106,10 +2106,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:54.097226+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 78,
@@ -2133,10 +2133,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:56.006214+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 79,
@@ -2156,14 +2156,14 @@
     "support_text": "· 한국어촌어항공단 :1박당 5만원, 공유오피스, 어촌 체험 1회 지원 (최대 4박) · · 한국관광공사 : 2박 3만원, 4박 6만원 지원",
     "has_support": true,
     "stay_max": 7.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:52:57.944145+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 80,
@@ -2187,10 +2187,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:53:00.314687+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 81,
@@ -2215,10 +2215,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
+    "source_checked_at": "2026-09-14T02:53:02.024340+00:00",
     "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_note": "접속 오류: ConnectionError",
+    "status_confidence": 0.05
   },
   {
     "id": 82,
@@ -2242,10 +2242,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:53:07.434524+00:00",
+    "source_http_status": 200,
+    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
+    "status_confidence": 0.35
   },
   {
     "id": 83,
@@ -2265,14 +2265,14 @@
     "support_text": "지원정보 확인",
     "has_support": false,
     "stay_max": 14.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:53:10.681139+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 84,
@@ -2292,14 +2292,14 @@
     "support_text": "지원정보 확인",
     "has_support": false,
     "stay_max": 12.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:53:13.347678+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   },
   {
     "id": 85,
@@ -2323,10 +2323,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:53:15.721404+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 86,
@@ -2350,10 +2350,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:53:17.421332+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 87,
@@ -2377,10 +2377,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:53:19.128273+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 88,
@@ -2405,10 +2405,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:53:20.672793+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 89,
@@ -2432,10 +2432,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:53:22.400199+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 90,
@@ -2460,10 +2460,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:53:23.964504+00:00",
+    "source_http_status": 200,
+    "source_note": "명확한 모집 상태 문구를 자동 판별하지 못함",
+    "status_confidence": 0.35
   },
   {
     "id": 91,
@@ -2488,10 +2488,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
+    "source_checked_at": "2026-09-14T02:53:26.198404+00:00",
     "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_note": "접속 오류: ConnectionError",
+    "status_confidence": 0.05
   },
   {
     "id": 92,
@@ -2515,10 +2515,10 @@
     "remaining_seats": null,
     "remaining_text": "확인 필요",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:53:28.098151+00:00",
+    "source_http_status": 404,
+    "source_note": "공식 페이지 HTTP 404",
+    "status_confidence": 0.15
   },
   {
     "id": 93,
@@ -2538,13 +2538,13 @@
     "support_text": "기관 지원사항",
     "has_support": true,
     "stay_max": 12.0,
-    "status": "확인필요",
+    "status": "모집중",
     "remaining_seats": null,
-    "remaining_text": "확인 필요",
+    "remaining_text": "공식 미공개",
     "deadline": null,
-    "source_checked_at": null,
-    "source_http_status": null,
-    "source_note": "GitHub Actions 첫 자동 확인 대기",
-    "status_confidence": 0.0
+    "source_checked_at": "2026-09-14T02:53:29.866046+00:00",
+    "source_http_status": 200,
+    "source_note": "공식 페이지의 신청/예약 가능 문구 감지",
+    "status_confidence": 0.8
   }
 ]
