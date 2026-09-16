@@ -1,11 +1,11 @@
 {
   "ok": true,
   "last_sync": {
-    "started_at": "2026-09-16T16:52:20.565724+00:00",
-    "finished_at": "2026-09-16T16:55:41.912887+00:00",
+    "started_at": "2026-09-16T21:16:21.201315+00:00",
+    "finished_at": "2026-09-16T21:19:28.694377+00:00",
     "checked": 93,
     "changed": 0,
-    "errors": 5,
+    "errors": 6,
     "verified": 10,
     "status_counts": {
       "확인필요": 83,
