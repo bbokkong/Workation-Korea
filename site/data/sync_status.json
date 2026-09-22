@@ -1,10 +1,10 @@
 {
   "ok": true,
   "last_sync": {
-    "started_at": "2026-09-22T11:35:05.769449+00:00",
-    "finished_at": "2026-09-22T11:38:17.281516+00:00",
+    "started_at": "2026-09-22T16:55:44.038893+00:00",
+    "finished_at": "2026-09-22T16:59:17.174389+00:00",
     "checked": 93,
-    "changed": 1,
+    "changed": 0,
     "errors": 5,
     "verified": 11,
     "status_counts": {
