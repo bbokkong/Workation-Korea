@@ -1,15 +1,15 @@
 {
   "ok": true,
   "last_sync": {
-    "started_at": "2026-10-29T22:43:12.906478+00:00",
-    "finished_at": "2026-10-29T22:46:16.420615+00:00",
+    "started_at": "2026-10-30T05:43:27.025496+00:00",
+    "finished_at": "2026-10-30T05:46:28.779373+00:00",
     "checked": 93,
-    "changed": 0,
+    "changed": 1,
     "errors": 5,
-    "verified": 11,
+    "verified": 10,
     "status_counts": {
-      "확인필요": 82,
-      "모집중": 11
+      "확인필요": 83,
+      "모집중": 10
     }
   },
   "note": "GitHub Actions 자동 확인 · 보수적 모집상태 판정 v2"
